@@ -18,6 +18,10 @@ This internship focused on **UI/UX design and frontend development** at RSB Ente
 - `Internship_Report.pdf` – Detailed internship report
 - `Internship_Presentation.pdf` – Presentation slides summarizing work
 
+### Output / Visuals
+Screenshots and visual examples of the UI/UX projects, prototypes, and final responsive pages.
+![Internship Project Screenshot](Internship_Project.png) 
+
 ### Outcome / Achievements
 - Completed internship projects focusing on **UI/UX design and frontend development**
 - Developed professional wireframes and interactive prototypes
